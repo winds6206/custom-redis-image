@@ -1,4 +1,4 @@
-FROM redis:5.0.13
+FROM redis:7.2.3
 
 MAINTAINER Tony_Jhang
 
